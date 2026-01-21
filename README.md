@@ -3,4 +3,4 @@
 
 ---
 ### 발표 자료 PDF
-[![발표자료](thumbnail.pngg)](다타(DATA)_최종발표자료.pdf)
+[![발표자료](thumbnail.png)](다타(DATA)_최종발표자료.pdf)
